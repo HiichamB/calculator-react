@@ -1,0 +1,13 @@
+.displayContainer{
+    padding: 10px;
+}
+
+.operations{
+    color:#3c3a3a;
+    font-size: 14px;
+    min-height: 20px;
+}
+.result{
+    font-size: 44px;
+    font-weight: bold;
+}
